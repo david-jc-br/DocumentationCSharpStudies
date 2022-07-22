@@ -17,3 +17,9 @@ Assunto | Link
 SQL | [SQL](https://docs.google.com/document/d/1Th1X8Vwl99x0IWECFCaEHn1Ap4PU0h65daLCpsqurNY/edit)
 Modelo Relacional | [RelationalModel](https://docs.google.com/document/d/1q7gVk1x3r9L7soQQIc_-X9G7JLQNc0od46KSUmCKdOo/edit)
 Normalização de Dados | [DatabaseNormalization](https://docs.google.com/document/d/1RDFC9WSPt7kohPcGc3nVQ4D3ak_b1sVjDQGdeo66YIM/edit)
+
+## 🔰Operational System
+
+Assunto | Link 
+:---: | :---: 
+ _**Em Construção**_ |  _**Em Construção**_

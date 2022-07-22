@@ -1,7 +1,19 @@
-# Documentações Dos Meus Estudos Pessoais Em Desenvolvimento Web
+# Documentações Dos Meus Estudos Em Desenvolvimento Web 🤖
 
+## 🔰Back-End 
 Assunto | Link 
 :---: | :---: 
 C# .NET | [EstudosCSDocumentacao](https://docs.google.com/document/d/1kOvpbQTnwymmDMv7S-rs1edFUpp-_zk7I0C7ePgWmGA/edit)
-HTML CSS | _**Em Construção**_
-SQL | _**Em Construção**_
+
+## 🔰Front-End
+Assunto | Link 
+:---: | :---: 
+HTML e CSS| _**Em Construção**_
+JavaScript | _**Em Construção**_
+
+## 🔰DataBase 
+Assunto | Link 
+:---: | :---: 
+SQL | [SQL](https://docs.google.com/document/d/1Th1X8Vwl99x0IWECFCaEHn1Ap4PU0h65daLCpsqurNY/edit)
+Modelo Relacional | [RelationalModel](https://docs.google.com/document/d/1q7gVk1x3r9L7soQQIc_-X9G7JLQNc0od46KSUmCKdOo/edit)
+Normalização de Dados | [DatabaseNormalization](https://docs.google.com/document/d/1RDFC9WSPt7kohPcGc3nVQ4D3ak_b1sVjDQGdeo66YIM/edit)

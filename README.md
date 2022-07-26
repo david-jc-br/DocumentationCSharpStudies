@@ -1,4 +1,8 @@
-# Documentações Dos Meus Estudos Em Desenvolvimento Web 🤖
+# Documentações 🤖
+
+📌 _**Fique a vontade para sugerir modificações nas documentações.**_
+
+📌 _**Se preferir também, você pode fazer o download do(s) documento(s)**_
 
 ## 🔰Back-End 
 Assunto | Link 
@@ -23,3 +27,4 @@ Normalização de Dados | [DatabaseNormalization](https://docs.google.com/docume
 Assunto | Link 
 :---: | :---: 
  _**Em Construção**_ |  _**Em Construção**_
+ 

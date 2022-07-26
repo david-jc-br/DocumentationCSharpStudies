@@ -3,7 +3,7 @@
 ## 🔰Back-End 
 Assunto | Link 
 :---: | :---: 
-C# .NET | [EstudosCSDocumentacao](https://docs.google.com/document/d/1kOvpbQTnwymmDMv7S-rs1edFUpp-_zk7I0C7ePgWmGA/edit)
+C# .NET | [EstudosCSDocumentacao](https://docs.google.com/document/d/1kOvpbQTnwymmDMv7S-rs1edFUpp-_zk7I0C7ePgWmGA/edit?usp=sharing)
 
 ## 🔰Front-End
 Assunto | Link 
@@ -15,8 +15,8 @@ JavaScript | _**Em Construção**_
 Assunto | Link 
 :---: | :---: 
 SQL | [SQL](https://docs.google.com/document/d/1Th1X8Vwl99x0IWECFCaEHn1Ap4PU0h65daLCpsqurNY/edit)
-Modelo Relacional | [RelationalModel](https://docs.google.com/document/d/1q7gVk1x3r9L7soQQIc_-X9G7JLQNc0od46KSUmCKdOo/edit)
-Normalização de Dados | [DatabaseNormalization](https://docs.google.com/document/d/1RDFC9WSPt7kohPcGc3nVQ4D3ak_b1sVjDQGdeo66YIM/edit)
+Modelo Relacional | [RelationalModel](https://docs.google.com/document/d/1q7gVk1x3r9L7soQQIc_-X9G7JLQNc0od46KSUmCKdOo/edit?usp=sharing)
+Normalização de Dados | [DatabaseNormalization](https://docs.google.com/document/d/1RDFC9WSPt7kohPcGc3nVQ4D3ak_b1sVjDQGdeo66YIM/edit?usp=sharing)
 
 ## 🔰Operational System
 
